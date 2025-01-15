@@ -39,43 +39,5 @@ More info about dataset can be found here :
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-## Installation :
 
-1. Clone the repository:
-
-`git clone https://github.com/Hamagistral/Potato-Disease-Classification.git`
-
-## Training the Model Usage :
-
-1. Go to the **training** directory:
-
-`cd training`
-
-3. Install the required packages:
-
-`pip install -r requirements.txt`
-
-4. Run the notebook
-
-`jupyter notebook`
-
-## Front End Usage :
-
-1. Go to the **frontend** directory:
-
-`cd frontend`
-
-2. Install dependencies:
-
-`npm install`
-
-3. Run the app:
-
-`npm run start`
-
-## 📨 Contact Me
-
-[LinkedIn](https://www.linkedin.com/in/hamza-elbelghiti/) •
-[Website](https://hamagistral.me) •
-[Gmail](hamza.lbelghiti@gmail.com)
 
